@@ -139,7 +139,7 @@ export default function Home() {
           // will-change can be a hint for performance.
           style={{ willChange: "opacity, transform" }}
         >
-          BISHAL
+          CODE
         </h1>
 
         {/* Dummy content within the pin section to demonstrate scrolling underneath */}
